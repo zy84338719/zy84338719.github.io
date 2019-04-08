@@ -1,5 +1,7 @@
 ## 欢迎来到Zy84338719的小站
 
+### [博客](https://zy84338719.github.io/blog/).
+### [计算机知识](https://zy84338719.github.io/CS_Note).
 <!--You can use the [editor on GitHub](https://github.com/zy84338719/zy84338719.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
